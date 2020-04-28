@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>86158266-90f1-43e0-b9c1-c3da7f15efc6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>200428\01.py</StartupFile>
+    <StartupFile>200428\classPractice.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="200428\01.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="200428\classPractice.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="200428\dict_practice.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

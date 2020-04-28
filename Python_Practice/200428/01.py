@@ -1,6 +1,7 @@
 def test(a) : 
-	for x in a : 
-		print(x)
+	for x in a :
+		if(x != 30) : 
+			print(x)
 
 a = []
 a.append(10)
